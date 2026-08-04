@@ -6,9 +6,8 @@
 Here are some ideas to get you started: -->
 
 
-- 🌱 I’m currently a mechanical engineering student at San Jose State University, with an expected graduation date of 2026.
-- ⚡ Prev. Mech E intern at Cepheid & Advanced Energy
-- 💻 Although there's not much and I'm still learning how to code, this is a collection of my previous and ongiong projects for all to see.
-
-
+- 🌱 I’m currently a mechanical engineering student at San Jose State University, with an expected graduation date of December 2026.
+- ⚡ Prev. Equipment Engineering Intern at Intel and Mechanical Design Engineer Intern at Cepheid & Advanced Energy
+- 💻 Currently working at KLA as a NPI Intern for the Fast
+- 
 ### Come take a look at my portfolio!
